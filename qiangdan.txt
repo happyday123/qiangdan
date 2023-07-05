@@ -1,1 +1,1 @@
-open
+1.4|27.102.129.90:8989|open|http://27.102.129.90:8989/static/autobet.exe
